@@ -44,6 +44,7 @@ header {
 /* Navigation bar */
 .nav-bar {
     display: flex;
+    align-items: center;
     gap: 25px;
 }
 
@@ -56,6 +57,21 @@ header {
 
 .nav-bar a:hover {
     color: #ff6f3c;
+}
+
+button {
+    padding: 1rem;
+    background-color: #ff6f3c; 
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-weight: 600;
+}
+
+button:hover {
+    background-color: #e65c2f;
 }
 
 /* Responsive behavior */
