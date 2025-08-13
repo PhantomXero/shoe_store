@@ -37,7 +37,7 @@ header {
 
 .icon:hover h2 {
     color: #ff6f3c;
-    box-shadow: #ff6f3c 2px 5px 5px;
+    box-shadow: #ff6f3c 5px 5px 5px;
 }
 
 /* Navigation bar */
