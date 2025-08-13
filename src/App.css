@@ -59,7 +59,7 @@ header {
     color: #ff6f3c;
 }
 
-button {
+.checkout-button {
     padding: 1rem;
     background-color: #ff6f3c; 
     border: none;
@@ -70,7 +70,7 @@ button {
     font-weight: 600;
 }
 
-button:hover {
+.checkout-button:hover {
     background-color: #e65c2f;
 }
 
