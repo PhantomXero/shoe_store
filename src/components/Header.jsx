@@ -1,5 +1,3 @@
-import React from "react";
-
 export let Header = () => {
     return (
         <>
@@ -15,6 +13,9 @@ export let Header = () => {
                     <a href="#">Women's Shoes</a>
                     <a href="#">Kid's Shoes</a>
                     <a href="#">Unisex Shoes</a>
+                    <button className="checkout-button">
+                        Checkout
+                    </button>
                 </div>
             </header>
         </>
